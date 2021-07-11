@@ -1,9 +1,7 @@
-## Hello World 👋🏼
+## Hello World 👋🏼 soy Jose!
 ![](josevillegas.png)
 
-¡Hola, soy Jose! Soy un Ingeniero en Informática de Venezuela <img src="https://image.flaticon.com/icons/svg/630/630644.svg" width="30"/>
-
-Me apasiona hacer código, crear tecnología y trabajar en equipo <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Disposición para asumir nuevos desafíos y experiencias profesionales en el área.
+Soy un Ingeniero en Informática de Venezuela <img src="https://image.flaticon.com/icons/svg/630/630644.svg" width="30"/> . Me apasiona hacer código, crear tecnología y trabajar en equipo <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Disposición para asumir nuevos desafíos y experiencias profesionales en el área.
 
 ## Sobre mi en codigo
 ```js
@@ -27,6 +25,7 @@ const jose = {
 
 - <a href="https://linkedin.com/in/j-villegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="j-villegas" height="30" width="30" /></a>
 
+⭐ From [JoseVMirt](https://github.com/josevmirt) 
 
 <!--
 **josevmirt/josevmirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
