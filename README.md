@@ -7,11 +7,14 @@ Me apasiona hacer código, crear tecnología y trabajar en equipo <img src="http
 
 ## Sobre mi en codigo
 ```js
-const thai = {
+const jose = {
   pronouns: "he" | "hinm",
   code: [Javascript, HTML, CSS, SQL, PHP, Python, Java],
-  tools: [Git, Node, Docker],
+  databases: ["MongoDB", "MySQL", "SQLServer"],
+  tools: [Git, Node, Docker,"VSCode"],
   architecture: ["microservices", "event-driven", "design system pattern"],
+  currentOccupation: "open for job opportunities"
+
 }
 ```
 ## Lenguajes y herramientas
