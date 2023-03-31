@@ -1,7 +1,7 @@
 ## Hello World 👋🏼 soy Jose!
 ![](josevillegas.png)
 
-Soy un Ingeniero en Informática de Venezuela <img src="https://image.flaticon.com/icons/svg/630/630644.svg" width="30"/> . Me apasiona hacer código, crear tecnología y trabajar en equipo <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Disposición para asumir nuevos desafíos y experiencias profesionales en el área.
+Soy un Ingeniero en Informática de Venezuela <img src="https://www.flaticon.com/free-icon/venezuela_630644?term=venezuela&page=1&position=5&origin=search&related_id=630644" width="30"/> . Me apasiona hacer código, crear tecnología y trabajar en equipo <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Disposición para asumir nuevos desafíos y experiencias profesionales en el área.
 
 ## Sobre mi en codigo
 ```js
